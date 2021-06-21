@@ -1,0 +1,34 @@
+.App {
+    height: 100vh;
+    /* color: #fff; */
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+    flex: 1;
+    max-height: 94vh;
+}
+
+.container .main {
+    flex: 1;
+    padding: 25px;
+    width: 100vw;
+    overflow: auto;
+    /* background-color: #282c34; */
+}
+
+.container .nav {
+    width: 150px;
+    background-color: rgb(236, 236, 236);
+    overflow: auto;
+}
+
+.footer {
+    height: 60px;
+    background-color: #1976d2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

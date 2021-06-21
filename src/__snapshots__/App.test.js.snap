@@ -1,0 +1,695 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`running snapshot test  sanp of app 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="nav"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+      >
+        <ul
+          className="MuiList-root MuiList-padding"
+        >
+          <div
+            aria-disabled={false}
+            className="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            <h6
+              className="MuiTypography-root MuiTypography-h6"
+            >
+               
+              Articel 1
+               
+            </h6>
+            <span
+              className="MuiTouchRipple-root"
+            />
+          </div>
+          <hr
+            className="MuiDivider-root"
+          />
+          <div
+            aria-disabled={false}
+            className="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            <h6
+              className="MuiTypography-root MuiTypography-h6"
+            >
+               
+              Articel 2
+               
+            </h6>
+            <span
+              className="MuiTouchRipple-root"
+            />
+          </div>
+          <hr
+            className="MuiDivider-root"
+          />
+          <div
+            aria-disabled={false}
+            className="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            <h6
+              className="MuiTypography-root MuiTypography-h6"
+            >
+               
+              Articel 3
+               
+            </h6>
+            <span
+              className="MuiTouchRipple-root"
+            />
+          </div>
+          <hr
+            className="MuiDivider-root"
+          />
+        </ul>
+      </div>
+    </div>
+    <div
+      className="main"
+    >
+      <div
+        className="MuiContainer-root MuiContainer-fixed MuiContainer-maxWidthLg"
+      >
+        <div>
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-direction-xs-column"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"
+            >
+              <h6
+                className="MuiTypography-root MuiTypography-h6"
+              >
+                Articel 1
+              </h6>
+              <button
+                className="MuiButtonBase-root MuiButton-root MuiButton-text btn"
+                disabled={false}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="MuiButton-label"
+                >
+                  <span
+                    className="MuiButton-endIcon MuiButton-iconSizeMedium"
+                  >
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                      />
+                    </svg>
+                  </span>
+                </span>
+                <span
+                  className="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item"
+                style={
+                  Object {
+                    "backgroundColor": "#b3acac40",
+                    "borderRadius": "8px",
+                    "minHeight": "500px",
+                    "padding": "15px",
+                    "width": "100%",
+                  }
+                }
+              >
+                <h6
+                  className="MuiTypography-root MuiTypography-subtitle1"
+                >
+                  <p
+                    dangerouslySetInnerHTML={
+                      Object {
+                        "__html": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam gravida pharetra ultricies. Nunc tortor ligula, congue ut quam ac, aliquam gravida nisl. Ut eget lorem auctor, venenatis libero ac, imperdiet risus. Mauris et tristique urna. Sed sit amet nisl eget ex maximus rhoncus eget eu magna. Aliquam erat volutpat. Praesent efficitur ipsum quis ipsum euismod interdum. Suspendisse potenti. Sed euismod quam velit, sit amet accumsan arcu pretium ac. Ut maximus risus id tristique lacinia. Vivamus aliquam cursus magna. Donec enim nibh, congue eu vestibulum eget, pharetra ac purus. Pellentesque consectetur a velit sit amet venenatis. Cras a vulputate dolor. Integer in sem posuere, tincidunt ligula ut, posuere orci.Praesent ex sapien, accumsan auctor rutrum eu, facilisis a neque. Pellentesque ornare eget justo at maximus. Fusce posuere eleifend risus, eget porttitor nisi lacinia quis. Integer pulvinar blandit lacinia. Quisque placerat convallis condimentum. Mauris justo odio, mollis et tempus ac, condimentum id ex. Nam efficitur neque id imperdiet gravida. Sed in sem tincidunt eros consectetur tempor. Quisque leo lacus, consequat sed orci a, lacinia dictum diam. Praesent luctus elit massa, vitae consequat metus luctus ut. In dictum nisi non odio auctor maximus. In hac habitasse platea dictumst. Proin a commodo quam, eget maximus nisi. Nullam auctor neque ac luctus pellentesque. Sed arcu nulla, pellentesque quis eros vitae, condimentum commodo dui. Morbi imperdiet gravida nunc, vel egestas odio tristique a.Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur nec orci lectus. Sed vulputate et ante ultrices elementum. Quisque rhoncus fringilla est at condimentum. Integer pharetra tellus egestas quam interdum, sit amet laoreet augue pharetra. Aenean porta dui nulla, id efficitur ante porta eget. Suspendisse convallis lorem vel risus porta, vitae semper neque sodales. Vestibulum eget maximus lacus.",
+                      }
+                    }
+                  />
+                </h6>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-flex-end"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item"
+              >
+                <button
+                  className="MuiButtonBase-root MuiButton-root MuiButton-text btn"
+                  disabled={false}
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={0}
+                  type="button"
+                >
+                  <span
+                    className="MuiButton-label"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-button MuiTypography-gutterBottom MuiTypography-displayBlock"
+                    >
+                      Add New Page
+                    </span>
+                    <span
+                      className="MuiButton-endIcon MuiButton-iconSizeMedium"
+                    >
+                      <svg
+                        aria-hidden={true}
+                        className="MuiSvgIcon-root"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                  <span
+                    className="MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="footer"
+  >
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+      focusable="false"
+      style={
+        Object {
+          "color": "#fff",
+          "marginLeft": "30px",
+        }
+      }
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m13 2h-2.5A3.5 3.5 0 0 0 12 8.5V11h-2v3h2v7h3v-7h3v-3h-3V9a1 1 0 0 1 1-1h2V5z"
+      />
+    </svg>
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+      focusable="false"
+      style={
+        Object {
+          "color": "#fff",
+          "marginLeft": "30px",
+        }
+      }
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M22.46 6c-.77.35-1.6.58-2.46.69.88-.53 1.56-1.37 1.88-2.38-.83.5-1.75.85-2.72 1.05C18.37 4.5 17.26 4 16 4c-2.35 0-4.27 1.92-4.27 4.29 0 .34.04.67.11.98C8.28 9.09 5.11 7.38 3 4.79c-.37.63-.58 1.37-.58 2.15 0 1.49.75 2.81 1.91 3.56-.71 0-1.37-.2-1.95-.5v.03c0 2.08 1.48 3.82 3.44 4.21a4.22 4.22 0 0 1-1.93.07 4.28 4.28 0 0 0 4 2.98 8.521 8.521 0 0 1-5.33 1.84c-.34 0-.68-.02-1.02-.06C3.44 20.29 5.7 21 8.12 21 16 21 20.33 14.46 20.33 8.79c0-.19 0-.37-.01-.56.84-.6 1.56-1.36 2.14-2.23z"
+      />
+    </svg>
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+      focusable="false"
+      style={
+        Object {
+          "color": "#fff",
+          "marginLeft": "30px",
+        }
+      }
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M10 15l5.19-3L10 9v6m11.56-7.83c.13.47.22 1.1.28 1.9.07.8.1 1.49.1 2.09L22 12c0 2.19-.16 3.8-.44 4.83-.25.9-.83 1.48-1.73 1.73-.47.13-1.33.22-2.65.28-1.3.07-2.49.1-3.59.1L12 19c-4.19 0-6.8-.16-7.83-.44-.9-.25-1.48-.83-1.73-1.73-.13-.47-.22-1.1-.28-1.9-.07-.8-.1-1.49-.1-2.09L2 12c0-2.19.16-3.8.44-4.83.25-.9.83-1.48 1.73-1.73.47-.13 1.33-.22 2.65-.28 1.3-.07 2.49-.1 3.59-.1L12 5c4.19 0 6.8.16 7.83.44.9.25 1.48.83 1.73 1.73z"
+      />
+    </svg>
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+      focusable="false"
+      style={
+        Object {
+          "color": "#fff",
+          "marginLeft": "30px",
+        }
+      }
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M12 .3a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2c-3.3.7-4-1.6-4-1.6-.6-1.4-1.4-1.8-1.4-1.8-1-.7.1-.7.1-.7 1.2 0 1.9 1.2 1.9 1.2 1 1.8 2.8 1.3 3.5 1 0-.8.4-1.3.7-1.6-2.7-.3-5.5-1.3-5.5-6 0-1.2.5-2.3 1.3-3.1-.2-.4-.6-1.6 0-3.2 0 0 1-.3 3.4 1.2a11.5 11.5 0 0 1 6 0c2.3-1.5 3.3-1.2 3.3-1.2.6 1.6.2 2.8 0 3.2.9.8 1.3 1.9 1.3 3.2 0 4.6-2.8 5.6-5.5 5.9.5.4.9 1 .9 2.2v3.3c0 .3.1.7.8.6A12 12 0 0 0 12 .3"
+      />
+    </svg>
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+      focusable="false"
+      style={
+        Object {
+          "color": "#fff",
+          "marginLeft": "30px",
+        }
+      }
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M9.04 21.54c.96.29 1.93.46 2.96.46a10 10 0 0 0 10-10A10 10 0 0 0 12 2 10 10 0 0 0 2 12c0 4.25 2.67 7.9 6.44 9.34-.09-.78-.18-2.07 0-2.96l1.15-4.94s-.29-.58-.29-1.5c0-1.38.86-2.41 1.84-2.41.86 0 1.26.63 1.26 1.44 0 .86-.57 2.09-.86 3.27-.17.98.52 1.84 1.52 1.84 1.78 0 3.16-1.9 3.16-4.58 0-2.4-1.72-4.04-4.19-4.04-2.82 0-4.48 2.1-4.48 4.31 0 .86.28 1.73.74 2.3.09.06.09.14.06.29l-.29 1.09c0 .17-.11.23-.28.11-1.28-.56-2.02-2.38-2.02-3.85 0-3.16 2.24-6.03 6.56-6.03 3.44 0 6.12 2.47 6.12 5.75 0 3.44-2.13 6.2-5.18 6.2-.97 0-1.92-.52-2.26-1.13l-.67 2.37c-.23.86-.86 2.01-1.29 2.7v-.03z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`running snapshot test  test snapshot of app component 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="nav"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+      >
+        <ul
+          className="MuiList-root MuiList-padding"
+        >
+          <div
+            aria-disabled={false}
+            className="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            <h6
+              className="MuiTypography-root MuiTypography-h6"
+            >
+               
+              Articel 1
+               
+            </h6>
+            <span
+              className="MuiTouchRipple-root"
+            />
+          </div>
+          <hr
+            className="MuiDivider-root"
+          />
+          <div
+            aria-disabled={false}
+            className="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            <h6
+              className="MuiTypography-root MuiTypography-h6"
+            >
+               
+              Articel 2
+               
+            </h6>
+            <span
+              className="MuiTouchRipple-root"
+            />
+          </div>
+          <hr
+            className="MuiDivider-root"
+          />
+          <div
+            aria-disabled={false}
+            className="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            <h6
+              className="MuiTypography-root MuiTypography-h6"
+            >
+               
+              Articel 3
+               
+            </h6>
+            <span
+              className="MuiTouchRipple-root"
+            />
+          </div>
+          <hr
+            className="MuiDivider-root"
+          />
+        </ul>
+      </div>
+    </div>
+    <div
+      className="main"
+    >
+      <div
+        className="MuiContainer-root MuiContainer-fixed MuiContainer-maxWidthLg"
+      >
+        <div>
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-direction-xs-column"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"
+            >
+              <h6
+                className="MuiTypography-root MuiTypography-h6"
+              >
+                Articel 1
+              </h6>
+              <button
+                className="MuiButtonBase-root MuiButton-root MuiButton-text btn"
+                disabled={false}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="MuiButton-label"
+                >
+                  <span
+                    className="MuiButton-endIcon MuiButton-iconSizeMedium"
+                  >
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                      />
+                    </svg>
+                  </span>
+                </span>
+                <span
+                  className="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item"
+                style={
+                  Object {
+                    "backgroundColor": "#b3acac40",
+                    "borderRadius": "8px",
+                    "minHeight": "500px",
+                    "padding": "15px",
+                    "width": "100%",
+                  }
+                }
+              >
+                <h6
+                  className="MuiTypography-root MuiTypography-subtitle1"
+                >
+                  <p
+                    dangerouslySetInnerHTML={
+                      Object {
+                        "__html": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam gravida pharetra ultricies. Nunc tortor ligula, congue ut quam ac, aliquam gravida nisl. Ut eget lorem auctor, venenatis libero ac, imperdiet risus. Mauris et tristique urna. Sed sit amet nisl eget ex maximus rhoncus eget eu magna. Aliquam erat volutpat. Praesent efficitur ipsum quis ipsum euismod interdum. Suspendisse potenti. Sed euismod quam velit, sit amet accumsan arcu pretium ac. Ut maximus risus id tristique lacinia. Vivamus aliquam cursus magna. Donec enim nibh, congue eu vestibulum eget, pharetra ac purus. Pellentesque consectetur a velit sit amet venenatis. Cras a vulputate dolor. Integer in sem posuere, tincidunt ligula ut, posuere orci.Praesent ex sapien, accumsan auctor rutrum eu, facilisis a neque. Pellentesque ornare eget justo at maximus. Fusce posuere eleifend risus, eget porttitor nisi lacinia quis. Integer pulvinar blandit lacinia. Quisque placerat convallis condimentum. Mauris justo odio, mollis et tempus ac, condimentum id ex. Nam efficitur neque id imperdiet gravida. Sed in sem tincidunt eros consectetur tempor. Quisque leo lacus, consequat sed orci a, lacinia dictum diam. Praesent luctus elit massa, vitae consequat metus luctus ut. In dictum nisi non odio auctor maximus. In hac habitasse platea dictumst. Proin a commodo quam, eget maximus nisi. Nullam auctor neque ac luctus pellentesque. Sed arcu nulla, pellentesque quis eros vitae, condimentum commodo dui. Morbi imperdiet gravida nunc, vel egestas odio tristique a.Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur nec orci lectus. Sed vulputate et ante ultrices elementum. Quisque rhoncus fringilla est at condimentum. Integer pharetra tellus egestas quam interdum, sit amet laoreet augue pharetra. Aenean porta dui nulla, id efficitur ante porta eget. Suspendisse convallis lorem vel risus porta, vitae semper neque sodales. Vestibulum eget maximus lacus.",
+                      }
+                    }
+                  />
+                </h6>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-flex-end"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item"
+              >
+                <button
+                  className="MuiButtonBase-root MuiButton-root MuiButton-text btn"
+                  disabled={false}
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={0}
+                  type="button"
+                >
+                  <span
+                    className="MuiButton-label"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-button MuiTypography-gutterBottom MuiTypography-displayBlock"
+                    >
+                      Add New Page
+                    </span>
+                    <span
+                      className="MuiButton-endIcon MuiButton-iconSizeMedium"
+                    >
+                      <svg
+                        aria-hidden={true}
+                        className="MuiSvgIcon-root"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                  <span
+                    className="MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="footer"
+  >
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+      focusable="false"
+      style={
+        Object {
+          "color": "#fff",
+          "marginLeft": "30px",
+        }
+      }
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m13 2h-2.5A3.5 3.5 0 0 0 12 8.5V11h-2v3h2v7h3v-7h3v-3h-3V9a1 1 0 0 1 1-1h2V5z"
+      />
+    </svg>
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+      focusable="false"
+      style={
+        Object {
+          "color": "#fff",
+          "marginLeft": "30px",
+        }
+      }
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M22.46 6c-.77.35-1.6.58-2.46.69.88-.53 1.56-1.37 1.88-2.38-.83.5-1.75.85-2.72 1.05C18.37 4.5 17.26 4 16 4c-2.35 0-4.27 1.92-4.27 4.29 0 .34.04.67.11.98C8.28 9.09 5.11 7.38 3 4.79c-.37.63-.58 1.37-.58 2.15 0 1.49.75 2.81 1.91 3.56-.71 0-1.37-.2-1.95-.5v.03c0 2.08 1.48 3.82 3.44 4.21a4.22 4.22 0 0 1-1.93.07 4.28 4.28 0 0 0 4 2.98 8.521 8.521 0 0 1-5.33 1.84c-.34 0-.68-.02-1.02-.06C3.44 20.29 5.7 21 8.12 21 16 21 20.33 14.46 20.33 8.79c0-.19 0-.37-.01-.56.84-.6 1.56-1.36 2.14-2.23z"
+      />
+    </svg>
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+      focusable="false"
+      style={
+        Object {
+          "color": "#fff",
+          "marginLeft": "30px",
+        }
+      }
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M10 15l5.19-3L10 9v6m11.56-7.83c.13.47.22 1.1.28 1.9.07.8.1 1.49.1 2.09L22 12c0 2.19-.16 3.8-.44 4.83-.25.9-.83 1.48-1.73 1.73-.47.13-1.33.22-2.65.28-1.3.07-2.49.1-3.59.1L12 19c-4.19 0-6.8-.16-7.83-.44-.9-.25-1.48-.83-1.73-1.73-.13-.47-.22-1.1-.28-1.9-.07-.8-.1-1.49-.1-2.09L2 12c0-2.19.16-3.8.44-4.83.25-.9.83-1.48 1.73-1.73.47-.13 1.33-.22 2.65-.28 1.3-.07 2.49-.1 3.59-.1L12 5c4.19 0 6.8.16 7.83.44.9.25 1.48.83 1.73 1.73z"
+      />
+    </svg>
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+      focusable="false"
+      style={
+        Object {
+          "color": "#fff",
+          "marginLeft": "30px",
+        }
+      }
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M12 .3a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2c-3.3.7-4-1.6-4-1.6-.6-1.4-1.4-1.8-1.4-1.8-1-.7.1-.7.1-.7 1.2 0 1.9 1.2 1.9 1.2 1 1.8 2.8 1.3 3.5 1 0-.8.4-1.3.7-1.6-2.7-.3-5.5-1.3-5.5-6 0-1.2.5-2.3 1.3-3.1-.2-.4-.6-1.6 0-3.2 0 0 1-.3 3.4 1.2a11.5 11.5 0 0 1 6 0c2.3-1.5 3.3-1.2 3.3-1.2.6 1.6.2 2.8 0 3.2.9.8 1.3 1.9 1.3 3.2 0 4.6-2.8 5.6-5.5 5.9.5.4.9 1 .9 2.2v3.3c0 .3.1.7.8.6A12 12 0 0 0 12 .3"
+      />
+    </svg>
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+      focusable="false"
+      style={
+        Object {
+          "color": "#fff",
+          "marginLeft": "30px",
+        }
+      }
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M9.04 21.54c.96.29 1.93.46 2.96.46a10 10 0 0 0 10-10A10 10 0 0 0 12 2 10 10 0 0 0 2 12c0 4.25 2.67 7.9 6.44 9.34-.09-.78-.18-2.07 0-2.96l1.15-4.94s-.29-.58-.29-1.5c0-1.38.86-2.41 1.84-2.41.86 0 1.26.63 1.26 1.44 0 .86-.57 2.09-.86 3.27-.17.98.52 1.84 1.52 1.84 1.78 0 3.16-1.9 3.16-4.58 0-2.4-1.72-4.04-4.19-4.04-2.82 0-4.48 2.1-4.48 4.31 0 .86.28 1.73.74 2.3.09.06.09.14.06.29l-.29 1.09c0 .17-.11.23-.28.11-1.28-.56-2.02-2.38-2.02-3.85 0-3.16 2.24-6.03 6.56-6.03 3.44 0 6.12 2.47 6.12 5.75 0 3.44-2.13 6.2-5.18 6.2-.97 0-1.92-.52-2.26-1.13l-.67 2.37c-.23.86-.86 2.01-1.29 2.7v-.03z"
+      />
+    </svg>
+  </div>
+</div>
+`;
